@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+
+# production build
+/build
+
+# misc
+.env
+*.log
+.DS_Store
+
+# VS Code settings
+.vscode/
